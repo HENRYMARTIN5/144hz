@@ -1,0 +1,4 @@
+input: 144hz_29.jar
+output: 144hz-deobf.jar
+transformers:
+  - com.javadeobfuscator.deobfuscator.transformers.special.SuperblaubeereTransformer
